@@ -1,4 +1,5 @@
 # Funcast: Current Theme Park Wait Times and Weather
+David Wright Version
 
 Funcast is a web application designed to enhance the theme park experience by providing current wait times for attractions and weather updates. This tool is perfect for on-the-go theme park enthusiasts who want to maximize their day by making quick decisions about which park to visit or which attraction to enjoy using consistently-updated wait times and weather information.
 
@@ -98,4 +99,4 @@ Contributions to Funcast are welcome! If you have suggestions or improvements, p
 
 ## Deployed Application Link
 
-[Click here to try it out!](https://mbarrie1979.github.io/Theme-Parks-Waiting-Times-and-Weather-NEW/)
+[Click here to try it out!](https://mroahu.github.io/David-Wright-Theme-Parks-Waiting-Times-and-Weather-NEW/)
